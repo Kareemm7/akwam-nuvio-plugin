@@ -1,17 +1,20 @@
 
-{
-"id": "akwam",
-"name": "Akwam",
-"description": "Akwam Arabic streaming provider for Nuvio",
-"version": "1.1.0",
-"author": "Kareem",
-"supportedTypes": ["movie", "tv"],
-"filename": "providers/akwam.js",
-"enabled": true,
-"contentLanguage": ["ar"],
-"formats": ["mp4", "mkv"],
-"limited": false,
-"disabledPlatforms": [],
-"supportsExternalPlayer": true
-}
+[
+  {
+    "id": "akwam",
+    "name": "Akwam",
+    "description": "Akwam Arabic streaming provider for Nuvio",
+    "version": "1.1.0",
+    "author": "Kareem",
+    "supportedTypes": ["movie", "tv"],
+    "filename": "providers/akwam.js",
+    "enabled": true,
+    "logo": "",
+    "contentLanguage": ["ar"],
+    "formats": ["mp4", "mkv"],
+    "limited": false,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": true
+  }
+]
 
