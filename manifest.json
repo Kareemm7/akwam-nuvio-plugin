@@ -1,0 +1,9 @@
+{
+  "id": "akwam",
+  "name": "Akwam",
+  "description": "Akwam Arabic streaming provider for Nuvio",
+  "version": "1.1.0",
+  "filename": "providers/akwam.js",
+  "supportedTypes": ["movie", "tv"],
+  "enabled": true
+}
